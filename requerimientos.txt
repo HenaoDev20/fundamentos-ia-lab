@@ -1,0 +1,12 @@
+# Dependencias del laboratorio: fundamentos-ia-lab
+# Entorno de desarrollo: Python 3.13 (Windows)
+# Instalación:  pip install -r requerimientos.txt
+
+# --- Serie temporal (pipeline de Bitcoin) ---
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+matplotlib==3.11.2
+
+# --- Modelos locales (Ollama / LM Studio) ---
+requests==2.34.2
