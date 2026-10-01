@@ -80,7 +80,7 @@ if __name__ == "__main__":
 ## 2. Ejecución cloud
 * **Herramienta:** Gemini
 * **Modelo utilizado:** [gemini pro]
-* **Tiempo de respuesta:** [Escribe aquí el tiempo que tardó]
+* **Tiempo de respuesta:** [3456.67 ms /    56 tokens]
 
 ### Código Generado (cloud)
 ```python
